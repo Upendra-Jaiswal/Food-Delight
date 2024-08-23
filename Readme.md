@@ -1,4 +1,4 @@
-# Food Delight
+# Food Ordering App
 
 Food Delight is a web application that provides a platform for exploring and ordering delicious meals. It offers a wide range of recipes from various cuisines, allowing users to satisfy their cravings and indulge in culinary delights.
 
